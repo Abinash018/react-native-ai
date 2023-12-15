@@ -2,7 +2,7 @@
 
 Full stack framework for building cross-platform mobile AI apps supporting LLM real-time / streaming text and chat UIs, image services and natural language to images with multiple models, and image processing.
 
-![React Native AI](https://i.imgur.com/AOOgBM0.png)
+![React Native AI](https://i.imgur.com/AOOgBM0.png)    
 
 ## Features
 
